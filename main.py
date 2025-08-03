@@ -58,8 +58,9 @@ def load_vgg19_model():
         #"model.keras", "model.h5",
         #"vgg19_model.keras", "vgg19_model.h5",
         #"Xception.keras", "VGG19.keras", 
+        "bestmodel.keras",
         "ResNet50.keras",
-        "bestmodel.keras"
+        
     ]
 
     for path in candidates:
