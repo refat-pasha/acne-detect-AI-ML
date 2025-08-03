@@ -1,4 +1,4 @@
-Here’s a professional `README.md` template for your GitHub repository: [acne-detect-AI-ML](https://github.com/refat-pasha/acne-detect-AI-ML).
+
 
 # Acne Detection AI/ML
 
